@@ -2,7 +2,7 @@
 
 ## Sistemska infrastruktura za razvoj softvera
 
-Matej Tomac
+Matej Tomac  
 Valerija Toloknova
 Matko Macan
 Luka Perić
