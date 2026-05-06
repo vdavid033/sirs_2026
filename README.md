@@ -3,11 +3,15 @@
 ## Sistemska infrastruktura za razvoj softvera
 
 Matej Tomac  
-Valerija Toloknova
-Matko Macan
-Luka Perić
+Valerija Toloknova  
+Matko Macan  
+Luka Perić  
+Matej Tomac
+
 Vlatka Davidović
+
 Giovanni Goglia
+
 Valerija Toloknova
 
 Matko Macan
@@ -15,3 +19,5 @@ Matko Macan
 Luka Perić
 
 Antonio Ožbolt
+
+Leni Jureša
