@@ -2,13 +2,10 @@
 
 ## Sistemska infrastruktura za razvoj softvera
 
-<<<<<<< HEAD
-
 Matej Tomac
 Valerija Toloknova
 Matko Macan
 Luka Perić
-=======
 Vlatka Davidović
 Giovanni Goglia
 Valerija Toloknova
@@ -16,3 +13,5 @@ Valerija Toloknova
 Matko Macan
 
 Luka Perić
+
+Antonio Ožbolt
