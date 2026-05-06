@@ -6,18 +6,11 @@ Matej Tomac
 Valerija Toloknova  
 Matko Macan  
 Luka Perić  
-Matej Tomac
-
-Vlatka Davidović
-
-Giovanni Goglia
-
-Valerija Toloknova
-
-Matko Macan
-
-Luka Perić
-
-Antonio Ožbolt
-
-Leni Jureša
+Matej Tomac  
+Vlatka Davidović  
+Giovanni Goglia  
+Valerija Toloknova  
+Matko Macan  
+Luka Perić  
+Antonio Ožbolt  
+Leni Jureša  
